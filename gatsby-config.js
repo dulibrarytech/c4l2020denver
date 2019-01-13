@@ -20,5 +20,7 @@ module.exports = {
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
-  ]
+  ],
+
+  pathPrefix: "/c4l2020denver",
 }
